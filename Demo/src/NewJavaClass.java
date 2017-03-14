@@ -1,4 +1,4 @@
 
 public class NewJavaClass {
-	String str = "";
+	String str = "c";
 }
