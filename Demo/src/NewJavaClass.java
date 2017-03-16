@@ -1,5 +1,5 @@
 
 public class NewJavaClass {
-	String str = "this is sub";
+	String str = "second string";
 	int num = 20;
 }
