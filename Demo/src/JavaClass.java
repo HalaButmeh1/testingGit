@@ -1,7 +1,7 @@
 
 public class JavaClass {
 	
-	int num = 15; 
+	int num = 11; 
 	int num2; 
 	
 
